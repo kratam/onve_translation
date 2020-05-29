@@ -1,0 +1,16 @@
+{
+  "NTAK compatible CMS": "NTAK kompatibilis szálláshelykezelő szoftver",
+  "NTAK_COMPATIBLE_CMS": "Az Online Vendégkönyvvel könnyedén teljesítheted a kötelező NTAK adatszolgáltatást.",
+  "Always correct NTAK daily closes": "Mindig megfelelő NTAK napi zárások",
+  "AUTO_NTAK_WITH_AIRBNB": "Mivel a foglalásokat automatikusan letöltjük az Airbnb-ről, az NTAK zárásokat pedig felfüggesztjük, amíg hiányzik ezekhez valamilyen adat, így nyugodtan nyaralhatsz akkor is, ha vannak last minute foglalásaid: az NTAK-ba biztosan nem megy hibás adat még automatikus zárással sem.",
+  "Journey page for your guests": "Útikalauz a vendégeidnek",
+  "JOURNEY_PAGE": "Az online bejelentkezés után elérhető, általad testreszabható útikalauzban megoszthatod a kedvenc éttermeidet, de elrejtheted ide akár a kulcsszéf kódját is.",
+  "Online checkin": "Online bejelentkezés",
+  "ONLINE_CHECKIN": "A vendégeknek küldött önkiszolgáló check-in oldal számodra is hatalmas könnyebség. Minden adatot előre bekérünk a vendégeidtől, ami az NTAK adatszolgáltatáshoz, a számlázáshoz és az önkormányzati vendégkönyvhöz szükséges.",
+  "Invoices with free Szamlazz.hu accounts": "Számlák akár ingyenes Szamlazz.hu fiókkal",
+  "SZAMLAZZHU": "Minden szálláshelyet összeköthetsz akár egy ingyenes Szamlazz.hu fiókkal is. Innentől kezdve a vendégeknek automatikusan állítjuk ki a számlát, amit az útikalauz oldalukon keresztül bármikor le is tölthetnek.",
+  "Multi-NTAK and Multi-Szamlazzhu connections": "Multi-NTAK és Multi-Szamlazzhu kapcsolatok",
+  "MULTI_NTAK": "Nem probléma, ha az apartmanjaid különböző NTAK vagy Szamlazz.hu regisztrációkhoz kapcsolódnak - akár mindegyiknek lehet külön tulajdonosa (üzemeltetője). Ezért külön díjat sem számolunk fel.",
+  "Automatic daily tasks": "Automatizált napi kötelezettségek",
+  "AUTO_DAILY_TASKS": "Nemcsak automatikus napi zárás, de automata érkeztetés, utaztatás és számlázás is van a rendszerben!"
+}

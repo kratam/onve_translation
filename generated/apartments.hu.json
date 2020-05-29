@@ -1,0 +1,18 @@
+{
+  "apartment": "Apartman",
+  "bunk": "Emeletes ágy",
+  "crib": "Rácsos ágy",
+  "double": "140-es dupla ágy",
+  "doubleAir": "Kétfős felfújható matrac",
+  "doubleMattress": "Dupla matrac",
+  "doubleSofa": "Kétfős kanapéágy",
+  "king": "180-as dupla ágy",
+  "queen": "160-as dupla ágy",
+  "roomWithBath": "Szoba fürdővel",
+  "roomWithoutBath": "Szoba fürdő nélkül",
+  "single": "Egyszemélyes ágy",
+  "singleAir": "Egyszemélyes felfújható matrac",
+  "singleMattress": "Egyszemélyes matrac",
+  "singleSofa": "Egyfős kanapéágy",
+  "toddler": "Gyerekágy"
+}

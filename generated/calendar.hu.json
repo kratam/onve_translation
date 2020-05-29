@@ -1,0 +1,10 @@
+{
+  "Active reservations": "Aktív foglalások",
+  "Checkout reservations": "Kijelentkező foglalások",
+  "Day can't be closed because a reservation is missing guest or accommodation fee information.": "A napot nem lehet lezárni hiányzó vendég- vagy szállásdíj adat miatt.",
+  "Number of guests: {{guestCount}}": "Vendégek száma: {{guestCount}}",
+  "Previous reservations": "Korábbi foglalások",
+  "We have every data for this day": "Minden adat rendelkezésre áll ehhez a naphoz",
+  "clickaction-closing": "Napi zárás info",
+  "clickaction-normal": "Normál"
+}

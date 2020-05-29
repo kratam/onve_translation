@@ -1,0 +1,20 @@
+{
+  "Can't add/update during active reservation.": "Nem lehet hozzáadni/frissíteni aktív foglalás közben.",
+  "Net amount": "Nettó összeg",
+  "accommodationFee": "Szállásdíj",
+  "cleaningFee": "Takarítási díj",
+  "drink": "Ital",
+  "eventService": "Rendezvény szolgáltatás",
+  "food": "Étel",
+  "healthService": "Egészségügyi szolgáltatás",
+  "hostingService": "Vendéglátó szolgáltatás",
+  "night": "éj",
+  "occasion": "alkalom",
+  "other": "Egyéb",
+  "otherService": "Egyéb szolgáltatás",
+  "pc": "db",
+  "sportService": "Sport szolgáltatás",
+  "touristTax": "IFA",
+  "wellness": "Gyógy és wellness",
+  "wellnessService": "Wellness szolgáltatás"
+}

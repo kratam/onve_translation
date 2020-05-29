@@ -1,0 +1,10 @@
+{
+  "Active reservations": "Active reservations",
+  "Checkout reservations": "Reservations ending/Checkouts",
+  "Day can't be closed because a reservation is missing guest or accommodation fee information.": "Day can't be closed due to missing guest data or accommodation fee information.",
+  "Number of guests: {{guestCount}}": "Number of guests: {{guestCount}}",
+  "Previous reservations": "Previous reservations",
+  "We have every data for this day": "We have all necessary data for this day",
+  "clickaction-closing": "Show closing info",
+  "clickaction-normal": "Normal"
+}

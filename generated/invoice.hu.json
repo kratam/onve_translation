@@ -1,0 +1,15 @@
+{
+  "Address: {{address}}": "Cím: {{address}}",
+  "Buyer: {{buyer}}": "Vevő: {{buyer}}",
+  "Date: {{issued}}": "Kiállítva: {{issued}}",
+  "Fullfilled: {{fullfilled}}": "Teljesítve: {{fullfilled}}",
+  "Gross price": "Bruttó ár",
+  "Invoice details": "Számla részletek",
+  "Name": "Név",
+  "Net price": "Nettó ár",
+  "Quantity": "Mennyiség",
+  "Total: {{total}} {{currency}}": "Összesen: {{total}} {{currency}}",
+  "Unit": "Egység",
+  "Unit price": "Egységár",
+  "VAT rate": "ÁFA mértéke"
+}

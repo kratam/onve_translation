@@ -1,0 +1,20 @@
+{
+  "Can't add/update during active reservation.": "Can't add/update during active reservation.",
+  "Net amount": "Net amount",
+  "accommodationFee": "Accommodation fee",
+  "cleaningFee": "Cleaning fee",
+  "drink": "Drink",
+  "eventService": "Event service",
+  "food": "Food",
+  "healthService": "Health service",
+  "hostingService": "Hospitality service",
+  "night": "night",
+  "occasion": "occasion",
+  "other": "Other",
+  "otherService": "Other service",
+  "pc": "pc",
+  "sportService": "Sport service",
+  "touristTax": "Tourist Tax",
+  "wellness": "Wellness",
+  "wellnessService": "Wellness service"
+}

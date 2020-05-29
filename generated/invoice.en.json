@@ -1,0 +1,15 @@
+{
+  "Address: {{address}}": "Address: {{address}}",
+  "Buyer: {{buyer}}": "Buyer: {{buyer}}",
+  "Date: {{issued}}": "Date of issue: {{issued}}",
+  "Fullfilled: {{fullfilled}}": "Fullfilled: {{fullfilled}}",
+  "Gross price": "Gross price",
+  "Invoice details": "Invoice details",
+  "Name": "Name",
+  "Net price": "Net price",
+  "Quantity": "Quantity",
+  "Total: {{total}} {{currency}}": "Total: {{total}} {{currency}}",
+  "Unit": "Unit",
+  "Unit price": "Unit price",
+  "VAT rate": "VAT rate"
+}

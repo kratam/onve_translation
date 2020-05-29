@@ -1,0 +1,16 @@
+{
+  "NTAK compatible CMS": "NTAK compatible Property Management System (PMS)",
+  "NTAK_COMPATIBLE_CMS": "With the Online Vendégkönyv software, you can easily fulfil your data supply obligations to NTAK, the National Tourism Data Supply Centre.",
+  "Always correct NTAK daily closes": "No faulty daily NTAK closings",
+  "AUTO_NTAK_WITH_AIRBNB": "Reservations are automatically downloaded from Airbnb, and NTAK closings are suspended as long as there is any necessary data missing, so you can even be on a holiday and have last minute bookings, as there will be no faulty data uploaded to NTAK even with the automatic closings.",
+  "Journey page for your guests": "Journey page for your guests",
+  "JOURNEY_PAGE": "On the customisable journey page available to your guests after login, you can share what your favourite restaurants are, and even include entry codes for check-in.",
+  "Online checkin": "Online checkin",
+  "ONLINE_CHECKIN": "The self-service check-in page sent to your guests makes life so much easier for you. Prior to their arrival we ask your guests to provide all details necessary for the NTAK data supply, invoicing, and the guestbook required by the local municipality.",
+  "Invoices with free Szamlazz.hu accounts": "Automated invoicing with Szamlazz.hu, even with a free account",
+  "SZAMLAZZHU": "All accommodations can be linked to a Szamlazz.hu account - even a free one! If you do that, we issue invoices to the guests automatically, which they can download anytime from their journey page. ",
+  "Multi-NTAK and Multi-Szamlazzhu connections": "Multi-NTAK and Multi-Szamlazz.hu connections",
+  "MULTI_NTAK": "It’s not a problem if your apartments are linked to different NTAK or Szamlazz.hu accounts, as each of them can have a separate owner (manager). And we do not charge any extra fees for this feature.",
+  "Automatic daily tasks": "Automatic daily tasks",
+  "AUTO_DAILY_TASKS": "The system provides not only automatic daily closing, but also automatic check-in, checkout and invoicing."
+}

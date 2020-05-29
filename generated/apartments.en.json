@@ -1,0 +1,18 @@
+{
+  "apartment": "Apartment",
+  "bunk": "Bunk bed",
+  "crib": "Crib",
+  "double": "Double bed",
+  "doubleAir": "Double air mattress",
+  "doubleMattress": "Double mattress",
+  "doubleSofa": "Double sofa bed",
+  "king": "King bed",
+  "queen": "Queen bed",
+  "roomWithBath": "Room with bath",
+  "roomWithoutBath": "Room without bath",
+  "single": "Single bed",
+  "singleAir": "Single air mattress",
+  "singleMattress": "Single mattress",
+  "singleSofa": "Sofa",
+  "toddler": "Toddler bed"
+}
