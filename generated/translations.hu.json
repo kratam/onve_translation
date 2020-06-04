@@ -430,9 +430,12 @@
   "Are you sure you've downloaded it from the NTAK portal?": "Biztos, hogy az NTAK portálról töltötted le?",
   "Step-by-step connection guide (in hungarian)": "Részletes összekapcsolási útmutató",
   "Invalid certification": "Érvénytelen tanúsítvány",
-  "We have two (hungarian) documents to help you get started.": "Csináltunk két dokumentumot, ami segít az elindulásban.",
-  "There is a": "Az első egy",
+  "We have two (hungarian) documents to help you get started.": "Csináltunk két leírást, ami segít az elindulásban.",
+  "There is a": "Van egy",
   "quick start guide": "gyorstalpaló",
-  "and a more verbose": "a másik pedig egy bővebb",
-  "documentation.": "dokumentáció."
+  "and a more verbose": "és egy bővebb",
+  "documentation": "dokumentáció",
+  "They're hosted in our public": "Mindkettő a nyilvános",
+  "knowledge base": "tudásbázis",
+  "where you can find guides, tips, interviews and conversations related to short-term rental.": "része, ahol megtalálsz a rövidtávú kiadáshoz kapcsolódó leírásokat, tippeket, interjúkat és beszélgeteseket."
 }

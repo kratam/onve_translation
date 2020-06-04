@@ -41,7 +41,7 @@ module.exports = {
       return '___NOT_TRANSLATED___'
     },
     resource: {
-      loadPath: '../app/public/locales/{{ns}}.{{lng}}.json',
+      loadPath: 'generated/{{ns}}.{{lng}}.json',
       savePath: 'generated/{{ns}}.{{lng}}.json',
       jsonIndent: 2,
       lineEnding: '\n',
