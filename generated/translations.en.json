@@ -429,5 +429,10 @@
   "Connection lost": "Connection lost",
   "Are you sure you've downloaded it from the NTAK portal?": "Are you sure you've downloaded it from the NTAK portal?",
   "Step-by-step connection guide (in hungarian)": "Step-by-step connection guide (in hungarian)",
-  "Invalid certification": "Invalid certification"
+  "Invalid certification": "Invalid certification",
+  "We have two (hungarian) documents to help you get started.": "We have two (hungarian) documents to help you get started.",
+  "There is a": "There is a",
+  "quick start guide": "quick start guide",
+  "and a more verbose": "and a more verbose",
+  "documentation.": "documentation."
 }

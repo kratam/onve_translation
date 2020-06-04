@@ -429,5 +429,10 @@
   "Connection lost": "Nincs kapcsolat",
   "Are you sure you've downloaded it from the NTAK portal?": "Biztos, hogy az NTAK portálról töltötted le?",
   "Step-by-step connection guide (in hungarian)": "Részletes összekapcsolási útmutató",
-  "Invalid certification": "Érvénytelen tanúsítvány"
+  "Invalid certification": "Érvénytelen tanúsítvány",
+  "We have two (hungarian) documents to help you get started.": "Csináltunk két dokumentumot, ami segít az elindulásban.",
+  "There is a": "Az első egy",
+  "quick start guide": "gyorstalpaló",
+  "and a more verbose": "a másik pedig egy bővebb",
+  "documentation.": "dokumentáció"
 }
