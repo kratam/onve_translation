@@ -437,5 +437,6 @@
   "documentation": "dokumentáció",
   "They're hosted in our public": "Mindkettő a nyilvános",
   "knowledge base": "tudásbázis",
-  "where you can find guides, tips, interviews and conversations related to short-term rental.": "része, ahol megtalálsz a rövidtávú kiadáshoz kapcsolódó leírásokat, tippeket, interjúkat és beszélgeteseket."
+  "where you can find guides, tips, interviews and conversations related to short-term rental.": "része, ahol megtalálsz a rövidtávú kiadáshoz kapcsolódó leírásokat, tippeket, interjúkat és beszélgeteseket.",
+  "Browser: {{browser}}": "Böngésző: {{browser}}"
 }
