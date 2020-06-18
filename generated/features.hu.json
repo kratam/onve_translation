@@ -12,5 +12,7 @@
   "Multi-NTAK and Multi-Szamlazzhu connections": "Multi-NTAK és Multi-Szamlazzhu kapcsolatok",
   "MULTI_NTAK": "Nem probléma, ha az apartmanjaid különböző NTAK vagy Szamlazz.hu regisztrációkhoz kapcsolódnak - akár mindegyiknek lehet külön tulajdonosa (üzemeltetője). Ezért külön díjat sem számolunk fel.",
   "Automatic daily tasks": "Automatizált napi kötelezettségek",
-  "AUTO_DAILY_TASKS": "Nemcsak automatikus napi zárás, de automata érkeztetés, utaztatás és számlázás is van a rendszerben!"
+  "AUTO_DAILY_TASKS": "Nemcsak automatikus napi zárás, de automata érkeztetés, utaztatás és számlázás is van a rendszerben!",
+  "Privacy Policy": "Adatvédelmi tájékoztató",
+  "PRIVACY_POLICY": "Biztosítjuk a vendégek számára kötelező adatvédelmi tájékoztatót. Ebben egy jogász összefoglalta, miért és milyen jogalapon kéred be a személyes adataikat."
 }

@@ -12,5 +12,7 @@
   "Multi-NTAK and Multi-Szamlazzhu connections": "Multi-NTAK and Multi-Szamlazz.hu connections",
   "MULTI_NTAK": "It’s not a problem if your apartments are linked to different NTAK or Szamlazz.hu accounts, as each of them can have a separate owner (manager). And we do not charge any extra fees for this feature.",
   "Automatic daily tasks": "Automatic daily tasks",
-  "AUTO_DAILY_TASKS": "The system provides not only automatic daily closing, but also automatic check-in, checkout and invoicing."
+  "AUTO_DAILY_TASKS": "The system provides not only automatic daily closing, but also automatic check-in, checkout and invoicing.",
+  "Privacy Policy": "Privacy Policy",
+  "PRIVACY_POLICY": "We provide the required Privacy Policy for your guests. It contains the reasons why and on what legal basis you ask for their data."
 }
