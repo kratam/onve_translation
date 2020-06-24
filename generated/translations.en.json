@@ -443,5 +443,5 @@
   "Tourist tax {{month}}": "Tourist tax {{month}}",
   "Total": "Total",
   "Tourist tax": "Tourist tax",
-  "TOURIST_TAX_PAGE_DESCRIPTION": "Tourist tax summary page. The numbers show the total of the accommodation fee (in case the tax is a percentage of the accommodation fee) or the guest nights."
+  "TOURIST_TAX_PAGE_DESCRIPTION": "Tourist tax summary page. The numbers show the total of the accommodation fee (in case the tax is a percentage of the accommodation fee) or the guest nights. The name of the accommodation is red in case one or more reservations have missing guest details."
 }
