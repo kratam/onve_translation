@@ -439,5 +439,9 @@
   "knowledge base": "knowledge base",
   "where you can find guides, tips, interviews and conversations related to short-term rental.": "where you can find guides, tips, interviews and conversations related to short-term rental.",
   "Browser: {{browser}}": "Browser: {{browser}}",
-  "cancelled booking": "cancelled booking"
+  "cancelled booking": "cancelled booking",
+  "Tourist tax {{month}}": "Tourist tax {{month}}",
+  "Total": "Total",
+  "Tourist tax": "Tourist tax",
+  "TOURIST_TAX_PAGE_DESCRIPTION": "Tourist tax summary page. The numbers show the total of the accommodation fee (in case the tax is a percentage of the accommodation fee) or the guest nights."
 }

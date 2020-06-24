@@ -439,5 +439,9 @@
   "knowledge base": "tudásbázis",
   "where you can find guides, tips, interviews and conversations related to short-term rental.": "része, ahol megtalálsz a rövidtávú kiadáshoz kapcsolódó leírásokat, tippeket, interjúkat és beszélgeteseket.",
   "Browser: {{browser}}": "Böngésző: {{browser}}",
-  "cancelled booking": "lemondott foglalás"
+  "cancelled booking": "lemondott foglalás",
+  "Tourist tax {{month}}": "IFA {{month}}",
+  "Total": "Összesen",
+  "Tourist tax": "IFA",
+  "TOURIST_TAX_PAGE_DESCRIPTION": "Összesítő oldal a havi IFA bevalláshoz. A számok vagy a szállásdíj összegét (százalékos IFA esetén) vagy a vendégéjszakák számát mutatják."
 }
