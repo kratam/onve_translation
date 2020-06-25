@@ -443,5 +443,6 @@
   "Tourist tax {{month}}": "IFA {{month}}",
   "Total": "Összesen",
   "Tourist tax": "IFA",
-  "TOURIST_TAX_PAGE_DESCRIPTION": "Összesítő oldal a havi IFA bevalláshoz. A számok vagy a szállásdíj összegét (százalékos IFA esetén) vagy a vendégéjszakák számát mutatják. Ahol a szálláshely neve piros, ott egy vagy több foglaláshoz nincs vendégadat megadva."
+  "The accommodation fee or the guest nights (depending on the tourist tax type of the apartment)": "A szállásdíj vagy a vendégéjszakák száma (az IFA típusától függően)",
+  "One ore more reservations have missing guest data": "Egy vagy több foglaláshoz hiányoznak vendégadatok"
 }
