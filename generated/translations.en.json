@@ -449,5 +449,6 @@
   "APARTMENT_LIST_AIRBNB_TOKEN_TEXT": "Your accommodation {{name}} had a connection to airbnb but we lost contact. This is usually because you signed out every logged-in client in the Airbnb app. Since we don't store usernames and passwords, you have to login to OnVe again and reconnect the accommodation to Airbnb in the Accommodations menu.",
   "Impersonate": "Impersonate",
   "Impersonate user": "Impersonate user",
-  "User ID": "User ID"
+  "User ID": "User ID",
+  "In total": "In total"
 }

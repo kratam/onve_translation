@@ -449,5 +449,6 @@
   "APARTMENT_LIST_AIRBNB_TOKEN_TEXT": "Szia! {{name}} nevű szálláshelyed korábban össze volt kötve az airbnb-vel, de a kapcsolat megszakadt. Ennek leggyakoribb oka, hogy az airbnb alkalmazásban minden bejelentkezett felhasználót kiléptettél. Mivel a belépési adatokat nem tároljuk el, az újra összekötéshez be kell lépned az OnVe-ba és a Szálláshelyek menüben újra összekötnöd a szálláshelyet az airbnb-vel.",
   "Impersonate": "Megszemélyesítés",
   "Impersonate user": "Felhasználó megszemélyesítése",
-  "User ID": "Felhasználó ID"
+  "User ID": "Felhasználó ID",
+  "In total": "Összesen"
 }
