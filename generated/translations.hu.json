@@ -450,5 +450,12 @@
   "Impersonate": "Megszemélyesítés",
   "Impersonate user": "Felhasználó megszemélyesítése",
   "User ID": "Felhasználó ID",
-  "In total": "Összesen"
+  "In total": "Összesen",
+  "Please click here and solve the captcha on Airbnb, then click the Connect button again.": "Kattints ide és old meg a captcha-t az Airbnb oldalán, majd kattints az Összekötésre újra.",
+  "Airbnb just sent you a code. Please type it here. It was sent to you via": "Kérlek add meg a kódot, amit az Airbnb küldött most neked",
+  "to {{obfuscated}}.": "ide: {{obfuscated}}",
+  "Code": "Kód",
+  "phone_verification_via_text": "sms-ben",
+  "phone_verification_via_call": "telefonon",
+  "email_code_verification": "emailen"
 }

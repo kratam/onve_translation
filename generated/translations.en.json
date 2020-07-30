@@ -450,5 +450,12 @@
   "Impersonate": "Impersonate",
   "Impersonate user": "Impersonate user",
   "User ID": "User ID",
-  "In total": "In total"
+  "In total": "In total",
+  "Please click here and solve the captcha on Airbnb, then click the Connect button again.": "Please click here and solve the captcha on Airbnb, then click the Connect button again.",
+  "Airbnb just sent you a code. Please type it here. It was sent to you via": "Airbnb just sent you a code. Please type it here. It was sent to you via",
+  "to {{obfuscated}}.": "to {{obfuscated}}.",
+  "Code": "Code",
+  "phone_verification_via_text": "text",
+  "phone_verification_via_call": "call",
+  "email_code_verification": "email"
 }
