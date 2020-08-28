@@ -458,5 +458,7 @@
   "status_loading": "töltés...",
   "status_working": "működik",
   "status_not-working": "nem működik",
-  "status_no-token": "nincs token"
+  "status_no-token": "nincs token",
+  "New account": "Új fiók",
+  "Add account": "Fiók hozzáadása"
 }
