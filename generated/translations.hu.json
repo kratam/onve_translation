@@ -460,5 +460,6 @@
   "status_not-working": "nem működik",
   "status_no-token": "nincs token",
   "New account": "Új fiók",
-  "Add account": "Fiók hozzáadása"
+  "Add account": "Fiók hozzáadása",
+  "Connection": "Kapcsolat"
 }

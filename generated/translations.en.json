@@ -460,5 +460,6 @@
   "status_not-working": "not working",
   "status_no-token": "no token",
   "New account": "New account",
-  "Add account": "Add account"
+  "Add account": "Add account",
+  "Connection": "Connection"
 }
