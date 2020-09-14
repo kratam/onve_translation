@@ -461,5 +461,8 @@
   "status_no-token": "no token",
   "New account": "New account",
   "Add account": "Add account",
-  "Connection": "Connection"
+  "Connection": "Connection",
+  "Can't remove the last admin": "Can't remove the last admin",
+  "Edit coworker": "Edit coworker",
+  "role_admin": "Admin"
 }
