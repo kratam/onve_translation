@@ -464,5 +464,6 @@
   "Connection": "Connection",
   "Can't remove the last admin": "Can't remove the last admin",
   "Edit coworker": "Edit coworker",
-  "role_admin": "Admin"
+  "role_admin": "Admin",
+  "role_cohost": "Co-host"
 }
