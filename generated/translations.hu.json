@@ -81,7 +81,6 @@
   "Cleaning fee is...": "A takarítási díj...",
   "Cleaning fee's VAT rate (%)": "Takarítási díj ÁFÁja (%)",
   "Clear": "Törlés",
-  "Click action": "Klikk akció",
   "Click here if you have a tourist tax exemption": "Kattints, ha van IFA mentességed",
   "Click here to read about the legal background.": "Kattints ide a törvényi háttér elolvasásához.",
   "Click here to view your invoices": "Kattints ide, hogy megnézd a számláidat",
@@ -287,7 +286,6 @@
   "Search": "Keresés",
   "Search for an address": "Cím keresése",
   "Select a new password": "Válassz egy új jelszót",
-  "Select an action for the left click": "Válassz egér bal-klikk akciót",
   "Send invoices to email": "Számla címzett emailje",
   "Send me the instructions": "Kérem az instrukciókat",
   "Service": "Szolgáltatási díj",
@@ -466,5 +464,9 @@
   "Edit coworker": "Munkatárs szerkesztése",
   "role_admin": "Admin",
   "role_cohost": "Társ-házigazda",
-  "role_cleaner": "Takarító"
+  "role_cleaner": "Takarító",
+  "Assigned to": "Hozzárendelve",
+  "Select calendar options": "Naptár opciók",
+  "Left click action": "Bal-klikk akció",
+  "Accommodation filter": "Szálláshely szűrő"
 }

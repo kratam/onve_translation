@@ -6,5 +6,7 @@
   "Previous reservations": "Previous reservations",
   "We have every data for this day": "We have all necessary data for this day",
   "clickaction-closing": "Show closing info",
-  "clickaction-normal": "Normal"
+  "clickaction-normal": "Normal",
+  "apartmentList-all": "All accommodations",
+  "apartmentList-own": "Assigned to me"
 }

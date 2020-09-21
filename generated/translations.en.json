@@ -81,7 +81,6 @@
   "Cleaning fee is...": "Cleaning fee is...",
   "Cleaning fee's VAT rate (%)": "Cleaning fee's VAT rate (%)",
   "Clear": "Clear",
-  "Click action": "Click action",
   "Click here if you have a tourist tax exemption": "Click here if you have a tourist tax exemption",
   "Click here to read about the legal background.": "Click here to read about the legal background.",
   "Click here to view your invoices": "Click here to view your invoices",
@@ -287,7 +286,6 @@
   "Search": "Search",
   "Search for an address": "Search for an address",
   "Select a new password": "Select a new password",
-  "Select an action for the left click": "Select an action for the left click",
   "Send invoices to email": "Send invoices to this email",
   "Send me the instructions": "Send me the instructions",
   "Service": "Service fee",
@@ -466,5 +464,9 @@
   "Edit coworker": "Edit coworker",
   "role_admin": "Admin",
   "role_cohost": "Co-host",
-  "role_cleaner": "Cleaner"
+  "role_cleaner": "Cleaner",
+  "Assigned to": "Assigned to",
+  "Select calendar options": "Select calendar options",
+  "Left click action": "Left click action",
+  "Accommodation filter": "Accommodation filter"
 }

@@ -6,5 +6,7 @@
   "Previous reservations": "Korábbi foglalások",
   "We have every data for this day": "Minden adat rendelkezésre áll ehhez a naphoz",
   "clickaction-closing": "Napi zárás info",
-  "clickaction-normal": "Normál"
+  "clickaction-normal": "Normál",
+  "apartmentList-all": "Minden szálláshely",
+  "apartmentList-own": "Hozzám rendeltek"
 }
