@@ -463,10 +463,10 @@
   "Can't remove the last admin": "Can't remove the last admin",
   "Edit coworker": "Edit coworker",
   "role_admin": "Admin",
-  "role_cohost": "Co-host",
   "role_cleaner": "Cleaner",
   "Assigned to": "Assigned to",
   "Select calendar options": "Select calendar options",
   "Left click action": "Left click action",
-  "Accommodation filter": "Accommodation filter"
+  "Accommodation filter": "Accommodation filter",
+  "role_trustee": "Trustee"
 }
