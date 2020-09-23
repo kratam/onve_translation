@@ -464,9 +464,9 @@
   "Edit coworker": "Munkatárs szerkesztése",
   "role_admin": "Admin",
   "role_cleaner": "Takarító",
-  "Assigned to": "Hozzárendelve",
   "Select calendar options": "Naptár opciók",
   "Left click action": "Bal-klikk akció",
   "Accommodation filter": "Szálláshely szűrő",
-  "role_trustee": "Megbízott"
+  "role_trustee": "Megbízott",
+  "Assignments": "Hozzárendelések"
 }
