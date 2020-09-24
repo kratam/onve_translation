@@ -468,5 +468,15 @@
   "Left click action": "Bal-klikk akció",
   "Accommodation filter": "Szálláshely szűrő",
   "role_trustee": "Megbízott",
-  "Assignments": "Hozzárendelések"
+  "Assignments": "Hozzárendelések",
+  "Bedding": "Ágyazás",
+  "No bedding info": "Nincs ágyazás infó",
+  "Beds for this reservation:": "Ágyak ehhez a foglaláshoz:",
+  "Beds for next reservation (from {{startDate}}):": "Ágyak a következő foglaláshoz (ekkortól: {{startDate}}):",
+  "This is the last accepted reservation": "Ez az utolsó elfogadott foglalás",
+  "OK": "OK",
+  "Please select the beds you want us to prepare.": "Válaszd ki az ágyakat, amiket szeretnéd, hogy előkészítsünk.",
+  "Select beds": "Válassz ágyakat",
+  "We'll preapre these beds for you: {{prevBeds}}. If you need another setup, please select the beds and click save.": "Ezeket az ágyakat készítjük elő: {{prevBeds}}. Ha másokat választanál, kattints az ágyakra majd a mentésre.",
+  "Please select the beds you want us to prepare for you.": "Kérlek válaszd ki az ágyakat, amiket szeretnéd, hogy előkészítsünk."
 }

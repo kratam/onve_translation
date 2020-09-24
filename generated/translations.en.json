@@ -468,5 +468,15 @@
   "Left click action": "Left click action",
   "Accommodation filter": "Accommodation filter",
   "role_trustee": "Trustee",
-  "Assignments": "Assignments"
+  "Assignments": "Assignments",
+  "Bedding": "Bedding",
+  "No bedding info": "No bedding info",
+  "Beds for this reservation:": "Beds for this reservation:",
+  "Beds for next reservation (from {{startDate}}):": "Beds for next reservation (from {{startDate}}):",
+  "This is the last accepted reservation": "This is the last accepted reservation",
+  "OK": "OK",
+  "Please select the beds you want us to prepare.": "Please select the beds you want us to prepare.",
+  "Select beds": "Select beds",
+  "We'll preapre these beds for you: {{prevBeds}}. If you need another setup, please select the beds and click save.": "We'll preapre these beds for you: {{prevBeds}}. If you need another setup, please select the beds and click save.",
+  "Please select the beds you want us to prepare for you.": "Please select the beds you want us to prepare for you."
 }
