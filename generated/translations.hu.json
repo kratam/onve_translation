@@ -514,7 +514,6 @@
   "Tags": "Cimkék",
   "Calculating...": "Számolok...",
   "Recalculate": "Újraszámolás",
-  "Changes": "Változások",
   "Applied rules": "Alkalmazott szabályok",
   "Price": "Ár",
   "No applied rules": "Nincsenek alkalmazott szabályok",
@@ -544,9 +543,14 @@
   "and": "és",
   "If": "Ha",
   "then": "akkor",
-  "DAY_INITIAL": "n",
   "Priority": "Prioritás",
   "Stop processing other rules on match": "Ne alkalmazz több szabályt találat esetén",
   "action": "akció",
-  "set": "beállít"
+  "set": "beállít",
+  "Round to": "Kerekítés",
+  "Round type": "Kerekítés típusa",
+  "day": "nap",
+  "ROUNDTYPE_round": "normál",
+  "ROUNDTYPE_floor": "lefelé",
+  "ROUNDTYPE_ceil": "felfelé"
 }

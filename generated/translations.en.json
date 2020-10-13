@@ -514,7 +514,6 @@
   "Tags": "Tags",
   "Calculating...": "Calculating...",
   "Recalculate": "Recalculate",
-  "Changes": "Changes",
   "Applied rules": "Applied rules",
   "Price": "Price",
   "No applied rules": "No applied rules",
@@ -544,9 +543,14 @@
   "and": "and",
   "If": "If",
   "then": "then",
-  "DAY_INITIAL": "d",
   "Priority": "Priority",
   "Stop processing other rules on match": "Stop processing other rules on match",
   "action": "action",
-  "set": "set"
+  "set": "set",
+  "Round to": "Round to",
+  "Round type": "Round type",
+  "day": "day",
+  "ROUNDTYPE_round": "round",
+  "ROUNDTYPE_floor": "round down",
+  "ROUNDTYPE_ceil": "round up"
 }
