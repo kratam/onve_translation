@@ -550,7 +550,7 @@
   "Round to": "Round to",
   "Round type": "Round type",
   "day": "day",
-  "ROUNDTYPE_round": "round",
+  "ROUNDTYPE_round": "normal",
   "ROUNDTYPE_floor": "round down",
   "ROUNDTYPE_ceil": "round up"
 }
