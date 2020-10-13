@@ -543,5 +543,10 @@
   "No tags": "No tags",
   "and": "and",
   "If": "If",
-  "then": "then"
+  "then": "then",
+  "DAY_INITIAL": "d",
+  "Priority": "Priority",
+  "Stop processing other rules on match": "Stop processing other rules on match",
+  "action": "action",
+  "set": "set"
 }

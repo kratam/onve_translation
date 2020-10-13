@@ -531,7 +531,7 @@
   "Remove column": "Oszlop törlése",
   "columns": "oszlopok",
   "rows": "sorok",
-  "New rule": "Új sor",
+  "New rule": "Új szabály",
   "Create price rule": "Árszabály hozzáadása",
   "change": "változás",
   "Create tag": "Cimke létrehozása",
@@ -543,5 +543,10 @@
   "No tags": "Nincsenek cimkék",
   "and": "és",
   "If": "Ha",
-  "then": "akkor"
+  "then": "akkor",
+  "DAY_INITIAL": "n",
+  "Priority": "Prioritás",
+  "Stop processing other rules on match": "Ne alkalmazz több szabályt találat esetén",
+  "action": "akció",
+  "set": "beállít"
 }
