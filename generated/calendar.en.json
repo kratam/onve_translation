@@ -8,5 +8,8 @@
   "clickaction-closing": "Show closing info",
   "clickaction-normal": "Normal",
   "apartmentList-all": "All accommodations",
-  "apartmentList-own": "Assigned to me"
+  "apartmentList-own": "Assigned to me",
+  "clickaction-select": "Select days",
+  "dayAction-block": "Block",
+  "dayAction-available": "Available"
 }

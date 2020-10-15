@@ -552,5 +552,9 @@
   "day": "nap",
   "ROUNDTYPE_round": "normál",
   "ROUNDTYPE_floor": "lefelé",
-  "ROUNDTYPE_ceil": "felfelé"
+  "ROUNDTYPE_ceil": "felfelé",
+  "Stopped processing": "Feldolgozás leállt",
+  "Edit days": "Napok módosítása",
+  "Notes": "Megjegyzés",
+  "Action": "Akció"
 }

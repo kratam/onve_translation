@@ -8,5 +8,8 @@
   "clickaction-closing": "Napi zárás info",
   "clickaction-normal": "Normál",
   "apartmentList-all": "Minden szálláshely",
-  "apartmentList-own": "Hozzám rendeltek"
+  "apartmentList-own": "Hozzám rendeltek",
+  "clickaction-select": "Napok kiválasztása",
+  "dayAction-block": "Blokkolás",
+  "dayAction-available": "Megnyitás"
 }

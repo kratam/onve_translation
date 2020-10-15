@@ -552,5 +552,9 @@
   "day": "day",
   "ROUNDTYPE_round": "normal",
   "ROUNDTYPE_floor": "round down",
-  "ROUNDTYPE_ceil": "round up"
+  "ROUNDTYPE_ceil": "round up",
+  "Stopped processing": "Stopped processing",
+  "Edit days": "Edit days",
+  "Notes": "Notes",
+  "Action": "Action"
 }
