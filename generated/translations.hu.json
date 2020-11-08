@@ -415,10 +415,6 @@
   "If you think this is az OnVe error, please email us and attach this error message: ": "Ha szerinted ez egy OnVe hiba, írj nekünk és csatold az alábbi üzenetet: ",
   "⚠️ Connection failed": "⚠️ Sikertelen kapcsolódás",
   "Enter data as provided in the municipal permission.": "Add meg annak az adatait, aki az önkormányzati engedélyt igényelte (jellemzően a tulajdonos).",
-  "The guest will receive 2 invoices. One for the accommodation ({{accFee}} + {{clFee}} - tourist tax) and another for the tourist tax. The tourist tax will be calculated based on the guest details.": "A vendég 2 számlát fog kapni. Egyet a szállás után ({{accFee}} + {{clFee}} - IFA) és egy másikat az IFA után. Az IFA összegét a vendégadatok ismeretében automatikusan kalkuláljuk.",
-  "The guest will receive 2 invoices. One for the accommodation ({{accFee}} + {{clFee}}) and another for the tourist tax (which will be calculated based on the guest details).": "A vendég 2 számlát fog kapni. Egyet a szállás után ({{accFee}} + {{clFee}}) és egyet az idegenforgalmi adó után, aminek az összegét automatikusan kalkuláljuk a vendégadatok ismeretében.",
-  "The guest will receive 3 invoices. One for the accommodation ({{accFee}} - tourist tax), one for the cleaning ({{clFee}}) and a third for the tourist tax, which will be calculated based on the guest details.": "A vendég 3 számlát fog kapni. Egyet a szállás után ({{accFee}} - IFA), egyet a takarítás után ({{clFee}}) és egy harmadikat az IFA után, aminek az összegét automatikusan kaluláljuk a vendégadatok ismeretében.",
-  "The guest will receive 3 invoices. One for the accommodation ({{accFee}}), one for the cleaning ({{clFee}}) and a third one for the tourist tax (which will be calculated based on the guest details).": "A vendég 3 számlát fog kapni. Egyet a szállás után ({{accFee}}), egyet a takarítás után ({{clFee}}) és egy harmadikat az IFA után, aminek az összegét automatikusan kaluláljuk a vendégadatok ismeretében.",
   "Connection lost": "Nincs kapcsolat",
   "Are you sure you've downloaded it from the NTAK portal?": "Biztos, hogy az NTAK portálról töltötted le?",
   "Step-by-step connection guide (in hungarian)": "Részletes összekapcsolási útmutató",
@@ -556,5 +552,6 @@
   "Stopped processing": "Feldolgozás leállt",
   "Edit days": "Napok módosítása",
   "Notes": "Megjegyzés",
-  "Action": "Akció"
+  "Action": "Akció",
+  "{{row}}-{{col}} matrix, modifies: {{resultProp}}": "{{row}}-{{col}} mátrix, változik: {{resultProp}}"
 }

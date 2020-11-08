@@ -415,10 +415,6 @@
   "If you think this is az OnVe error, please email us and attach this error message: ": "If you think this is az OnVe error, please email us and attach this error message: ",
   "⚠️ Connection failed": "⚠️ Connection failed",
   "Enter data as provided in the municipal permission.": "Enter the details of the person/company who requested the municipal permission (most likely the owner).",
-  "The guest will receive 2 invoices. One for the accommodation ({{accFee}} + {{clFee}} - tourist tax) and another for the tourist tax. The tourist tax will be calculated based on the guest details.": "The guest will receive 2 invoices. One for the accommodation ({{accFee}} + {{clFee}} - tourist tax) and another for the tourist tax. The tourist tax will be calculated based on the guest details.",
-  "The guest will receive 2 invoices. One for the accommodation ({{accFee}} + {{clFee}}) and another for the tourist tax (which will be calculated based on the guest details).": "The guest will receive 2 invoices. One for the accommodation ({{accFee}} + {{clFee}}) and another for the tourist tax (which will be calculated based on the guest details).",
-  "The guest will receive 3 invoices. One for the accommodation ({{accFee}} - tourist tax), one for the cleaning ({{clFee}}) and a third for the tourist tax, which will be calculated based on the guest details.": "The guest will receive 3 invoices. One for the accommodation ({{accFee}} - tourist tax), one for the cleaning ({{clFee}}) and a third for the tourist tax, which will be calculated based on the guest details.",
-  "The guest will receive 3 invoices. One for the accommodation ({{accFee}}), one for the cleaning ({{clFee}}) and a third one for the tourist tax (which will be calculated based on the guest details).": "The guest will receive 3 invoices. One for the accommodation ({{accFee}}), one for the cleaning ({{clFee}}) and a third one for the tourist tax (which will be calculated based on the guest details).",
   "Connection lost": "Connection lost",
   "Are you sure you've downloaded it from the NTAK portal?": "Are you sure you've downloaded it from the NTAK portal?",
   "Step-by-step connection guide (in hungarian)": "Step-by-step connection guide (in hungarian)",
@@ -556,5 +552,6 @@
   "Stopped processing": "Stopped processing",
   "Edit days": "Edit days",
   "Notes": "Notes",
-  "Action": "Action"
+  "Action": "Action",
+  "{{row}}-{{col}} matrix, modifies: {{resultProp}}": "{{row}}-{{col}} matrix, modifies: {{resultProp}}"
 }
