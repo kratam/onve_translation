@@ -553,5 +553,12 @@
   "Edit days": "Edit days",
   "Notes": "Notes",
   "Action": "Action",
-  "{{row}}-{{col}} matrix, modifies: {{resultProp}}": "{{row}}-{{col}} matrix, modifies: {{resultProp}}"
+  "{{row}}-{{col}} matrix, modifies: {{resultProp}}": "{{row}}-{{col}} matrix, modifies: {{resultProp}}",
+  "Logger": "Logger",
+  "No reply needed": "No reply needed",
+  "Needs reply": "Needs reply",
+  "Saved note": "Saved note",
+  "Note": "Note",
+  "Click to edit": "Click to edit",
+  "No note": "No note"
 }

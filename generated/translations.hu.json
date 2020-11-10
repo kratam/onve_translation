@@ -553,5 +553,12 @@
   "Edit days": "Napok módosítása",
   "Notes": "Megjegyzés",
   "Action": "Akció",
-  "{{row}}-{{col}} matrix, modifies: {{resultProp}}": "{{row}}-{{col}} mátrix, változik: {{resultProp}}"
+  "{{row}}-{{col}} matrix, modifies: {{resultProp}}": "{{row}}-{{col}} mátrix, változik: {{resultProp}}",
+  "Logger": "Napló",
+  "No reply needed": "Nem kell válasz",
+  "Needs reply": "Válasz kell",
+  "Saved note": "Megjegyzés mentve",
+  "Note": "Megjegyzés",
+  "Click to edit": "Kattints a módosításhoz",
+  "No note": "Nincs megjegyzés"
 }
