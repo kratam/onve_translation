@@ -560,5 +560,12 @@
   "Saved note": "Megjegyzés mentve",
   "Note": "Megjegyzés",
   "Click to edit": "Kattints a módosításhoz",
-  "No note": "Nincs megjegyzés"
+  "No note": "Nincs megjegyzés",
+  "Snippets": "Darabkák",
+  "Create snippet": "Darabka készítése",
+  "Edit snippet": "Darabka szerkesztése",
+  "Use simple editor": "Egyszerű szerkesztő",
+  "Use HTML editor": "HTML szerkesztő",
+  "Add snippet": "Darabka hozzáadása",
+  "Only letters, numbers and _": "Csak betűk, számok és _"
 }

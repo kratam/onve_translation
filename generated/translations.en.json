@@ -560,5 +560,12 @@
   "Saved note": "Saved note",
   "Note": "Note",
   "Click to edit": "Click to edit",
-  "No note": "No note"
+  "No note": "No note",
+  "Snippets": "Snippets",
+  "Create snippet": "Create snippet",
+  "Edit snippet": "Edit snippet",
+  "Use simple editor": "Use simple editor",
+  "Use HTML editor": "Use HTML editor",
+  "Add snippet": "Add snippet",
+  "Only letters, numbers and _": "Only letters, numbers and _"
 }
