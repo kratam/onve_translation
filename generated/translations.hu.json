@@ -567,5 +567,11 @@
   "Use simple editor": "Egyszerű szerkesztő",
   "Use HTML editor": "HTML szerkesztő",
   "Add snippet": "Darabka hozzáadása",
-  "Only letters, numbers and _": "Csak betűk, számok és _"
+  "Only letters, numbers and _": "Csak betűk, számok és _",
+  "Insert snippet": "Darabka beszúrása",
+  "No snippet": "Nincsenek darabkák",
+  "Contact name": "Kontakt név",
+  "Contact email": "Kontakt email",
+  "Use as canned reply?": "Használd konzerv-válaszként?",
+  "All accommodations": "Minden szálláshely"
 }

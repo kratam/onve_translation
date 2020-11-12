@@ -567,5 +567,11 @@
   "Use simple editor": "Use simple editor",
   "Use HTML editor": "Use HTML editor",
   "Add snippet": "Add snippet",
-  "Only letters, numbers and _": "Only letters, numbers and _"
+  "Only letters, numbers and _": "Only letters, numbers and _",
+  "Insert snippet": "Insert snippet",
+  "No snippet": "No snippet",
+  "Contact name": "Contact name",
+  "Contact email": "Contact email",
+  "Use as canned reply?": "Use as canned reply?",
+  "All accommodations": "All accommodations"
 }
