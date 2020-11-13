@@ -573,5 +573,7 @@
   "Contact name": "Contact name",
   "Contact email": "Contact email",
   "Use as canned reply?": "Use as canned reply?",
-  "All accommodations": "All accommodations"
+  "All accommodations": "All accommodations",
+  "Contact phone": "Contact phone",
+  "conditionProp_dateMMDD": "date (MM-DD)"
 }

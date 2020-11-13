@@ -573,5 +573,7 @@
   "Contact name": "Kontakt név",
   "Contact email": "Kontakt email",
   "Use as canned reply?": "Használd konzerv-válaszként?",
-  "All accommodations": "Minden szálláshely"
+  "All accommodations": "Minden szálláshely",
+  "Contact phone": "Kontakt telefon",
+  "conditionProp_dateMMDD": "dátum (HH-NN)"
 }
