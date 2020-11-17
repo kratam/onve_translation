@@ -576,5 +576,11 @@
   "All accommodations": "All accommodations",
   "Contact phone": "Contact phone",
   "conditionProp_dateMMDD": "date (MM-DD)",
-  "invalid format": "invalid format"
+  "invalid format": "invalid format",
+  "Management fee": "Management fee",
+  "Accommodation fee %": "Accommodation fee %",
+  "Flat amount": "Flat amount",
+  "Flat amount if had checkin": "Flat amount if had checkin",
+  "Min. cleaning fee": "Min. cleaning fee",
+  "Min. cleaning fee's currency": "Min. cleaning fee's currency"
 }

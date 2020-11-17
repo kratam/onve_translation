@@ -576,5 +576,11 @@
   "All accommodations": "Minden szálláshely",
   "Contact phone": "Kontakt telefon",
   "conditionProp_dateMMDD": "dátum (HH-NN)",
-  "invalid format": "hibás formátum"
+  "invalid format": "hibás formátum",
+  "Management fee": "Menedzsment díj",
+  "Accommodation fee %": "Szállásdíj %",
+  "Flat amount": "Fix díj",
+  "Flat amount if had checkin": "Fix díj, ha volt érkezés",
+  "Min. cleaning fee": "Min. takarítási díj",
+  "Min. cleaning fee's currency": "Min. takarítási díj valuta"
 }
