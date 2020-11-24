@@ -615,6 +615,6 @@
   "{{monthCount}} months": "{{monthCount}} hónap",
   "Extra costs": "Extra költségek",
   "Invoiced": "Számlázva",
-  "Cost is covered by the monthy fee": "A költséget fedezi a havidíj",
-  "Already paid (e.g. in cash)": "Már fizetve (pl. készpénzben)"
+  "Included in fixed monthly fee (until limit)": "A fix havidíj része (a limit mértékéig)",
+  "Not invoiced": "Nem számlázott"
 }
