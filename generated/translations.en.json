@@ -620,5 +620,13 @@
   "Not invoiced": "Not invoiced",
   "Open stat page": "Open stat page",
   "{{count}} cleanings": "{{count}} cleaning",
-  "{{count}} cleanings_plural": "{{count}} cleanings"
+  "{{count}} cleanings_plural": "{{count}} cleanings",
+  "STAT_INCOME_EXPLANATION": "The sum of accommodation and cleaning fees",
+  "STATS_COSTS_EXPLANATION": "Every costs summarized",
+  "STAT_ACCFEE_EXPLANATION": "The accommodation is calculated day-by-day. This means that we only count the days of the reservations in the selected period. Currencies are also converted daily.",
+  "STAT_CLEANINGFEE_EXPLANATION": "The cleaning is both an income and a cost so this value doesn't change the profit.",
+  "STAT_MANAGEMENTCOST_EXPLANATION": "This is calculated from the accommodation fee paid by the guests.",
+  "STAT_OTACOST_EXPLANATION": "This is the fee you have to pay for the OTA (airbnb, booking, etc.).",
+  "STAT_FIXAMOUNT_EXPLANATION": "Monthly fix fee. You won't be charged for the extra costs up to this amount.",
+  "STAT_TOURISTTAX_EXPLANATION": "This has to be paid for the local authorities."
 }

@@ -620,5 +620,13 @@
   "Not invoiced": "Nem számlázott",
   "Open stat page": "Stat oldal megnyitása",
   "{{count}} cleanings": "{{count}} takarítás",
-  "{{count}} cleanings_plural": "{{count}} takarítás"
+  "{{count}} cleanings_plural": "{{count}} takarítás",
+  "STAT_INCOME_EXPLANATION": "Szállás- és takarítási díjak összege",
+  "STATS_COSTS_EXPLANATION": "Minden költség összeadva",
+  "STAT_ACCFEE_EXPLANATION": "A szállásdíjat napi bontásban számoljuk. Ez azt jelenti, hogy egy hosszú foglalásnak csak azokat a napjait számoljuk, amik a választott időszakba esnek. A devizákat szintén naponta konvertáljuk forintra.",
+  "STAT_CLEANINGFEE_EXPLANATION": "A takarítás egyszerre bevétel és kiadás, azaz ez az érték nem befolyásolja a profitot",
+  "STAT_MANAGEMENTCOST_EXPLANATION": "Ezt a vendégek által fizetett szállásdíjból számoljuk",
+  "STAT_OTACOST_EXPLANATION": "Ez az a költség, amit az OTA-knak (pl. airbnb, booking) kell fizetned.",
+  "STAT_FIXAMOUNT_EXPLANATION": "Havi fix díj. Ennek az összegnek a mértékéig nem kell fizetned az extra költségekért.",
+  "STAT_TOURISTTAX_EXPLANATION": "Ez az önkormányzatnak fizetendő idegenforgalmi adó"
 }
