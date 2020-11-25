@@ -628,5 +628,10 @@
   "STAT_MANAGEMENTCOST_EXPLANATION": "This is calculated from the accommodation fee paid by the guests.",
   "STAT_OTACOST_EXPLANATION": "This is the fee you have to pay for the OTA (airbnb, booking, etc.).",
   "STAT_FIXAMOUNT_EXPLANATION": "Monthly fix fee. You won't be charged for the extra costs up to this amount.",
-  "STAT_TOURISTTAX_EXPLANATION": "This has to be paid for the local authorities."
+  "STAT_TOURISTTAX_EXPLANATION": "This has to be paid for the local authorities.",
+  "Note that these amounts might contain fees from days outside the selected period.": "Note that these amounts might contain fees from days outside the selected period.",
+  "Guest": "Guest",
+  "Arrival": "Arrival",
+  "Leave": "Leave",
+  "Expected transfer": "Expected transfer"
 }
