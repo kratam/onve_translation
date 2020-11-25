@@ -612,9 +612,9 @@
   "{{messageCount}} messages": "{{messageCount}} üzenet",
   "OTA cost": "OTA költség",
   "Maintenance cost": "Karbantartási költség",
-  "{{monthCount}} months": "{{monthCount}} hónap",
   "Extra costs": "Extra költségek",
   "Invoiced": "Számlázva",
   "Included in fixed monthly fee (until limit)": "A fix havidíj része (a limit mértékéig)",
-  "Not invoiced": "Nem számlázott"
+  "Not invoiced": "Nem számlázott",
+  "Open stat page": "Stat oldal megnyitása"
 }
