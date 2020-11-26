@@ -638,5 +638,6 @@
   "Last monthly email": "Last monthly email",
   "Stat page key": "Stat page key",
   "Category": "Category",
-  "Guest nights": "Guest nights"
+  "Guest nights": "Guest nights",
+  "STAT_IFATABLE_EXPLANATION": "There is no tourist tax for days before 2020.12.31. because of the corona virus. The accommodation fee in the table below might be higher than the accommodation fee shown on the stat page, because the cleaning fees are considered as accommodation fee."
 }
