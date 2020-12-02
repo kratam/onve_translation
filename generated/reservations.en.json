@@ -22,5 +22,13 @@
   "szepkartyaSzallashely": "szepkartya szallashely",
   "szepkartyaVendeglatas": "szepkartya vendeglatas",
   "voucher": "voucher",
-  "wire": "wire"
+  "wire": "wire",
+  "inquiry": "inquiry",
+  "not_possible": "not possible",
+  "special_offer": "special offer",
+  "preapproved": "preapproved",
+  "timedout": "timedout",
+  "denied": "denied",
+  "message": "message",
+  "awaiting_payment": "awaiting payment"
 }

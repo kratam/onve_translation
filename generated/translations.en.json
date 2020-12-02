@@ -639,5 +639,10 @@
   "Stat page key": "Stat page key",
   "Category": "Category",
   "Guest nights": "Guest nights",
-  "STAT_IFATABLE_EXPLANATION": "There is no tourist tax for days before 2020.12.31. because of the corona virus. The accommodation fee in the table below might be higher than the accommodation fee shown on the stat page, because the cleaning fees are considered as accommodation fee."
+  "STAT_IFATABLE_EXPLANATION": "There is no tourist tax for days before 2020.12.31. because of the corona virus. The accommodation fee in the table below might be higher than the accommodation fee shown on the stat page, because the cleaning fees are considered as accommodation fee.",
+  "Partner's name": "Partner's name",
+  "Partner's bank account": "Partner's bank account",
+  "Partner's tax number": "Partner's tax number",
+  "Partner's VAT rate": "Partner's VAT rate",
+  "Most likely AAM or 27%": "Most likely AAM or 27%"
 }

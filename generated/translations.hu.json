@@ -639,5 +639,10 @@
   "Stat page key": "Stat oldal kulcsa",
   "Category": "Kategória",
   "Guest nights": "Vendégéjszakák",
-  "STAT_IFATABLE_EXPLANATION": "A fizetendő IFA a koronavírus miatt 2020.12.31 előtt 0 Ft. Előfordulhat, hogy az alábbi táblázatban lévő szállásdíj nagyobb, mint a stat oldalon kimutatott szállásdíj, mert az IFA esetében szállásdíjnak minősül az adott időszakra eső takarítási díj is."
+  "STAT_IFATABLE_EXPLANATION": "A fizetendő IFA a koronavírus miatt 2020.12.31 előtt 0 Ft. Előfordulhat, hogy az alábbi táblázatban lévő szállásdíj nagyobb, mint a stat oldalon kimutatott szállásdíj, mert az IFA esetében szállásdíjnak minősül az adott időszakra eső takarítási díj is.",
+  "Partner's name": "Partner neve",
+  "Partner's bank account": "Partner számlaszáma",
+  "Partner's tax number": "Partner adószáma",
+  "Partner's VAT rate": "Partner ÁFA kulcsa",
+  "Most likely AAM or 27%": "Valószínűleg AAM vagy 27%"
 }

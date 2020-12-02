@@ -22,5 +22,13 @@
   "szepkartyaSzallashely": "Szép kártya / Szálláshely",
   "szepkartyaVendeglatas": "Szép kártya / Vendéglátás",
   "voucher": "utalvány",
-  "wire": "átutalás"
+  "wire": "átutalás",
+  "inquiry": "érdeklődés",
+  "not_possible": "nem lehetséges",
+  "special_offer": "extra ajánlat",
+  "preapproved": "jóváhagyva",
+  "timedout": "időtullépés",
+  "denied": "elutasítva",
+  "message": "üzenet",
+  "awaiting_payment": "fizetésre vár"
 }
