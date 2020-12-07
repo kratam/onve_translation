@@ -644,5 +644,15 @@
   "Partner's bank account": "Partner számlaszáma",
   "Partner's tax number": "Partner adószáma",
   "Partner's VAT rate": "Partner ÁFA kulcsa",
-  "Most likely AAM or 27%": "Valószínűleg AAM vagy 27%"
+  "Most likely AAM or 27%": "Valószínűleg AAM vagy 27%",
+  "Inquiry declined": "Érdeklődés elutasítva",
+  "Inquiry preapproved": "Érdeklődés elfogadva",
+  "Preapprove": "Elfogadás",
+  "Decline": "Elutasítás",
+  "Last inquiry": "Utolsó érdeklődés",
+  "or": "vagy",
+  "Invoice issued": "Számlázva",
+  "Please fill in the partner info!": "Töltsd ki a partner adatokat!",
+  "Sent": "Elküldve",
+  "Issue invoice": "Számlázás"
 }

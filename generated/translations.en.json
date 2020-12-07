@@ -644,5 +644,15 @@
   "Partner's bank account": "Partner's bank account",
   "Partner's tax number": "Partner's tax number",
   "Partner's VAT rate": "Partner's VAT rate",
-  "Most likely AAM or 27%": "Most likely AAM or 27%"
+  "Most likely AAM or 27%": "Most likely AAM or 27%",
+  "Inquiry declined": "Inquiry declined",
+  "Inquiry preapproved": "Inquiry preapproved",
+  "Preapprove": "Preapprove",
+  "Decline": "Decline",
+  "Last inquiry": "Last inquiry",
+  "or": "or",
+  "Invoice issued": "Invoice issued",
+  "Please fill in the partner info!": "Please fill in the partner info!",
+  "Sent": "Sent",
+  "Issue invoice": "Issue invoice"
 }
