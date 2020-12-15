@@ -595,7 +595,7 @@
   "Edit cost": "Költség módosítása",
   "Name of the cost": "Költség neve",
   "Is extra?": "Extra?",
-  "Is paid?": "Fizetve?",
+  "Is paid?": "Nem számlázott",
   "Settings": "Beállítások",
   "Stats for {{apName}}": "{{apName}} statisztika",
   "Period": "Időszak",
