@@ -589,7 +589,7 @@
   "Cost": "Költség",
   "Description": "Leírás",
   "Cost is not covered by the monthy fee": "A költséget nem fedezi a havidíj",
-  "Already paid - won't be included in the monthy invoice": "Már fizetve - nem lesz rajta a havi számlán",
+  "Already paid - won't be included in the monthy invoice": "Nem lesz rajta a havi számlán",
   "Add cost": "Költség hozzáadása",
   "Create cost": "Költség létrehozása",
   "Edit cost": "Költség módosítása",

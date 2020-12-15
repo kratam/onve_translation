@@ -589,7 +589,7 @@
   "Cost": "Cost",
   "Description": "Description",
   "Cost is not covered by the monthy fee": "Cost is not covered by the monthy fee",
-  "Already paid - won't be included in the monthy invoice": "Already paid - won't be included in the monthy invoice",
+  "Already paid - won't be included in the monthy invoice": "Won't be included in the monthy invoice",
   "Add cost": "Add cost",
   "Create cost": "Create cost",
   "Edit cost": "Edit cost",
