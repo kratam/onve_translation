@@ -625,7 +625,7 @@
   "STATS_COSTS_EXPLANATION": "Total of all fees and costs (cleaning + management + OTA + tourist tax). Subtracting this amount from the income gives you the gross operating profit; if we also deduct other costs (such as overheads, proportional part of annual taxes, etc.), we get the net profit.",
   "STAT_ACCFEE_EXPLANATION": "The accommodation is calculated day-by-day. This means that we only count the days of the reservations in the selected period. Currencies are converted into HUF at the Hungarian National Bank midrate on the given day.",
   "STAT_CLEANINGFEE_EXPLANATION": "The fee payable to the cleaner, which is charged in full on the day of departure of the booking in question.",
-  "STAT_MANAGEMENTCOST_EXPLANATION": "This is calculated from the accommodation fee paid by the guests.",
+  "STAT_MANAGEMENTCOST_EXPLANATION": "The management fee is calculated based on our commission from the accommodation fee paid by the guest. The number of Airbnb messages exchanged with guests and that of bookings with a check-in date falling into the given period can also be found here.",
   "STAT_OTACOST_EXPLANATION": "This is the fee you have to pay to the OTAs (e.g. Airbnb, Booking). The OTA will automatically deduct it from payouts to your bank account, so you don't have to deal with paying it!",
   "STAT_FIXAMOUNT_EXPLANATION": "Monthly fix fee. You won't be charged for the extra costs up to this amount.",
   "STAT_TOURISTTAX_EXPLANATION": "This is the tourist tax payable to the municipality, which is calculated on the basis of the daily breakdown of bookings for the given period (in case of bookings spanning between periods, the booking is broken down proportionally).",

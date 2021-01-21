@@ -625,7 +625,7 @@
   "STATS_COSTS_EXPLANATION": "Minden költség összeadva (takarítási díj + management díj + OTA költség + IFA). Ezt az összeget levonva a bevételből az üzemelési eredményhez jutunk, ha ebből levonjuk még az egyéb költségeket (például rezsi, éves adók arányos része, stb.), akkor pedig a profithoz.",
   "STAT_ACCFEE_EXPLANATION": "A szállásdíjat napi bontásban számoljuk. Ez azt jelenti, hogy egy hosszú foglalásnak csak azokat a napjait számoljuk, amik a választott időszakba esnek. A devizákat adott napi MNB középárfolyammal konvertáljuk forintra.",
   "STAT_CLEANINGFEE_EXPLANATION": "Takarítási vállalkozónak fizetendő díj, amelyet az adott foglalás távozásának napján számolunk el teljes egészében.",
-  "STAT_MANAGEMENTCOST_EXPLANATION": "Ezt a vendégek által fizetett szállásdíjból számoljuk.",
+  "STAT_MANAGEMENTCOST_EXPLANATION": "A management díjat a vendég által fizetett szállásdíjból számoljuk a management jutalékunk alapján. Itt található még az adott időszakban megkezdett foglalások és a vendégekkel váltott airbnb-s üzenetek száma.",
   "STAT_OTACOST_EXPLANATION": "Ez az a költség, amelyet az OTA-knak (pl. airbnb, booking) kell fizetned. A bankszámládra érkező kifizetésekből az OTA ezt már automatikusan levonja, így a fizetésével nem kell foglalkoznod!",
   "STAT_FIXAMOUNT_EXPLANATION": "Havi fix díj. Ennek az összegnek a mértékéig nem kell fizetned az extra költségekért.",
   "STAT_TOURISTTAX_EXPLANATION": "Ez az önkormányzatnak fizetendő idegenforgalmi adó, amelyet az adott időszakra eső foglalások napi bontása alapján számolunk (időszakok között átnyúló foglalások esetén arányosan megbontjuk a foglalást).",
