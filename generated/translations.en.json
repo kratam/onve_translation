@@ -622,7 +622,7 @@
   "{{count}} cleanings": "{{count}} cleaning",
   "{{count}} cleanings_plural": "{{count}} cleanings",
   "STAT_INCOME_EXPLANATION": "The total of accommodation and cleaning fees paid by guests.",
-  "STATS_COSTS_EXPLANATION": "Total of all fees and costs (cleaning + management + OTA + tourist tax). Subtracting this amount from the income gives you the gross operating profit; if we also deduct other costs (such as overheads, proportional part of annual taxes, etc.), we get the net profit.",
+  "STATS_COSTS_EXPLANATION": "Total of all fees and costs. Subtracting this amount from the income gives you the gross operating profit; if we also deduct other costs (such as overheads, proportional part of annual taxes, etc.), we get the net profit.",
   "STAT_ACCFEE_EXPLANATION": "The accommodation is calculated day-by-day. This means that we only count the days of the reservations in the selected period. Currencies are converted into HUF at the Hungarian National Bank midrate on the given day.",
   "STAT_CLEANINGFEE_EXPLANATION": "The fee payable to the cleaner, which is charged in full on the day of departure of the booking in question.",
   "STAT_MANAGEMENTCOST_EXPLANATION": "The management fee is calculated based on our commission from the accommodation fee paid by the guest. The number of Airbnb messages exchanged with guests and that of bookings with a check-in date falling into the given period can also be found here.",
